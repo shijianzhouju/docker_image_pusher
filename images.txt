@@ -1,1 +1,1 @@
-java:8u40-jdk
+csdmdev/JDK18
