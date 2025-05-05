@@ -1,1 +1,2 @@
-csdmdev/jdk18
+postgres
+sonarqube:lts-community
