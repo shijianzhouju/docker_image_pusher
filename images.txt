@@ -1,2 +1,1 @@
-postgres
-sonarqube:lts-community
+calico/pod2daemon-flexvol:v3.13.1
