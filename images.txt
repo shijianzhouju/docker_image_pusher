@@ -1,1 +1,1 @@
-nginx/nginx:1.7.9
+nginx:1.29.0
