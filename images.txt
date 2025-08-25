@@ -1,1 +1,1 @@
-Calico/cni:v3.27.0
+docker.io/calico/cni:v3.27.0
