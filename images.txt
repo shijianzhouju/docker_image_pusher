@@ -1,6 +1,1 @@
-docker.io/istio/examples-bookinfo-details-v1:1.18.0
-docker.io/istio/examples-bookinfo-productpage-v1:1.18.0
-docker.io/istio/examples-bookinfo-ratings-v1:1.18.0
-docker.io/istio/examples-bookinfo-reviews-v1:1.18.0
-docker.io/istio/examples-bookinfo-reviews-v2:1.18.0
-docker.io/istio/examples-bookinfo-reviews-v3:1.18.0
+jenkins/jenkins:2.548-jdk25-hotspot-ltsc2022
