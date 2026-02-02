@@ -1,1 +1,1 @@
-jenkins/jenkins:2.548-jdk25-hotspot-ltsc2022
+jenkins/jenkins:latest
