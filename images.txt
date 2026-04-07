@@ -1,1 +1,1 @@
-jenkins/jenkins:latest
+ggservers/java21:latest
